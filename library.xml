@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+  <Book catelogue="Technical">
+    <ISBN>12345</ISBN>
+    <Title>Python Programming for Dummies</Title>
+    <Author>Ms. Gemma Cooke</Author>
+  </Book>
+  <Book catelogue="Technical">
+    <ISBN>987654</ISBN>
+    <Title>HTML for Engineers</Title>
+    <Author>Mr. Tim Hutch</Author>
+  </Book>
+  <Book catelogue="Cookery">
+    <ISBN>246810</ISBN>
+    <Title>The Art of Pastry</Title>
+    <Author>Ms. Mary Dunne</Author>
+  </Book>
+  <Book catelogue="Technical">
+    <ISBN>1357911</ISBN>
+    <Title>100 Home Recipes</Title>
+    <Author>Mr. Liam Python</Author>
+    </Book>
+</Library>
