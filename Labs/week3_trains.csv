@@ -1,0 +1,39 @@
+N	51.8491	-8.29956	P244	20 Nov 2021	P244\nCobh to Cork\nExpected Departure 14:30	To Cork
+N	51.9018	-8.4582	A219	20 Nov 2021	A219\nCork to Dublin Heuston\nExpected Departure 14:25	To Dublin Heuston
+N	51.9018	-8.4582	D282	20 Nov 2021	D282\nCork to Midleton\nExpected Departure 14:15	To Midleton
+N	52.6587	-8.62397	A786	20 Nov 2021	A786\nLimerick to Galway\nExpected Departure 14:20	To Galway
+N	53.0371	-7.30086	P213	20 Nov 2021	P213\nPortlaoise to Dublin Heuston\nExpected Departure 14:28	To Dublin Heuston
+N	53.2043	-6.10046	E919	20 Nov 2021	E919\nBray to Howth\nExpected Departure 14:25	Northbound
+N	53.2736	-9.04696	A485	20 Nov 2021	A485\nGalway to Limerick\nExpected Departure 14:15	To Limerick
+R	0	0	A212	20 Nov 2021	A212\n12:00 - Dublin Heuston to Cork (8 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R	0	0	A804	20 Nov 2021	A804\n12:45 - Dublin Heuston to Westport (9 mins late)\nDeparted Athlone Midland Yard next stop Roscommon	To Westport
+R	0	0	D209	20 Nov 2021	D209\n14:15 - Dublin Heuston to Portlaoise (1 mins late)\nDeparted Inchicore Advance Starter next stop Park West and Cherry Orchard	To Portlaoise
+R	52.1396	-8.65521	A306	20 Nov 2021	A306\n13:25 - Mallow to Tralee (4 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R	52.5009	-8.20003	A217	20 Nov 2021	A217\n13:25 - Cork to Dublin Heuston (-1 mins late)\nDeparted Limerick Junction next stop Thurles	To Dublin Heuston
+R	52.7878	-7.82293	A214	20 Nov 2021	A214\n13:00 - Dublin Heuston to Cork (10 mins late)\nDeparted Templemore next stop Thurles	To Cork
+R	52.8407	-6.92217	A511	20 Nov 2021	A511\n13:05 - Waterford to Dublin Heuston (1 mins late)\nDeparted Carlow next stop Athy	To Dublin Heuston
+R	52.992	-6.9762	A506	20 Nov 2021	A506\n13:15 - Dublin Heuston to Waterford (0 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R	53.0371	-7.30086	A215	20 Nov 2021	A215\n12:25 - Cork to Dublin Heuston (6 mins late)\nDeparted Portlaoise next stop Dublin Heuston	To Dublin Heuston
+R	53.1454	-7.06361	D208	20 Nov 2021	D208\n13:20 - Dublin Heuston to Portlaoise (3 mins late)\nDeparted Monasterevin next stop Portarlington	To Portlaoise
+R	53.2043	-6.10046	E114	20 Nov 2021	E114\n13:02 - Malahide to Greystones (10 mins late)\nDeparted Bray next stop Greystones	Southbound
+R	53.2135	-7.35205	A706	20 Nov 2021	A706\n13:25 - Dublin Heuston to Galway (1 mins late)\nDeparted Geashill next stop Tullamore	To Galway
+R	53.2364	-6.11691	A606	20 Nov 2021	A606\n13:36 - Dublin Connolly to Rosslare Europort (8 mins late)\nDeparted Shankill next stop Bray	Southbound
+R	53.2756	-6.10333	E817	20 Nov 2021	E817\n14:10 - Bray to Malahide (1 mins late)\nDeparted Dalkey next stop Glenageary	Northbound
+R	53.2951	-6.13498	E220	20 Nov 2021	E220\n13:15 - Howth to Bray (19 mins late)\nArrived Dun Laoghaire next stop Sandycove	Southbound
+R	53.2991	-6.16512	E918	20 Nov 2021	E918\n13:55 - Bray to Howth (3 mins late)\nArrived Seapoint next stop Blackrock	Northbound
+R	53.3027	-6.17833	E221	20 Nov 2021	E221\n13:30 - Malahide to Bray (10 mins late)\nArrived Blackrock next stop Seapoint	Southbound
+R	53.3027	-6.17833	E816	20 Nov 2021	E816\n13:30 - Greystones to Malahide (16 mins late)\nDeparted Blackrock next stop Booterstown	Northbound
+R	53.3223	-6.52356	A216	20 Nov 2021	A216\n14:00 - Dublin Heuston to Mallow (2 mins late)\nDeparted Hazelhatch next stop Portlaoise	To Mallow
+R	53.3223	-6.52356	P212	20 Nov 2021	P212\n13:25 - Portlaoise to Dublin Heuston (5 mins late)\nDeparted Hazelhatch next stop Adamstown	To Dublin Heuston
+R	53.3433	-6.24829	E222	20 Nov 2021	E222\n13:45 - Howth to Bray (4 mins late)\nArrived Dublin Pearse next stop Grand Canal Dock	Southbound
+R	53.3531	-6.24591	E917	20 Nov 2021	E917\n13:25 - Bray to Howth (12 mins late)\nArrived Dublin Connolly next stop Clontarf Road	Northbound
+R	53.3602	-7.79847	A713	20 Nov 2021	A713\n13:05 - Galway to Dublin Heuston (3 mins late)\nDeparted Clonydonnin next stop Clara	To Dublin Heuston
+R	53.3632	-6.25908	D917	20 Nov 2021	D917\n14:15 - Dublin Connolly to Maynooth (1 mins late)\nDeparted Drumcondra next stop Broombridge	Northbound
+R	53.3704	-6.50598	D916	20 Nov 2021	D916\n13:45 - Dublin Connolly to Maynooth (2 mins late)\nDeparted Leixlip (Louisa Bridge) next stop Maynooth	Northbound
+R	53.3743	-6.48624	P745	20 Nov 2021	P745\n14:08 - Maynooth to Dublin Connolly (2 mins late)\nDeparted Leixlip (Confey) next stop Clonsilla	Southbound
+R	53.3752	-6.31388	P744	20 Nov 2021	P744\n13:45 - Maynooth to Dublin Connolly (4 mins late)\nDeparted Pelletstown next stop Broombridge	Southbound
+R	53.3853	-6.44205	D337	20 Nov 2021	D337\n14:16 - Clonsilla to M3 Parkway (3 mins late)\nDeparted Hansfield next stop Dunboyne	Northbound
+R	53.387	-6.16163	E116	20 Nov 2021	E116\n14:00 - Malahide to Greystones (12 mins late)\nDeparted Kilbarrack next stop Raheny	Southbound
+R	53.3909	-6.15672	P714	20 Nov 2021	P714\n13:38 - Drogheda to Dublin Connolly (1 mins late)\nArrived Howth Junction next stop Dublin Connolly	Southbound
+R	53.392	-6.11448	E223	20 Nov 2021	E223\n14:15 - Howth to Bray (5 mins late)\nArrived Sutton next stop Bayside	Southbound
+T	52.5009	-8.20003	A435	20 Nov 2021	A435\n13:50 - Limerick to Limerick Junction(-2 mins late)\nTERMINATED Limerick Junction at 14:17	To Limerick Junction
